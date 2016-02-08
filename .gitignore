@@ -1,0 +1,9 @@
+# Temp files
+*.pyc
+
+# tutorials folder
+wx_py_tuts/*
+test_folder/*
+
+# pycharm folder
+.idea/*
